@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shedopumping
+- 👀 I’m interested in Artificial intelligence and machine learning 
+- 🌱 I’m currently learning python
